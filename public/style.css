@@ -1,0 +1,49 @@
+.div1{
+    text-align: center
+}
+
+body{
+    font-family: sans-serif;
+    color:white;
+    padding:20px ;
+    line-height: 50px;
+    
+    
+    
+        
+}
+
+#student{
+    color: #6B5ACD;
+    font-family:calibri;
+    font-size: 30px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.div2{
+    background-color:#6B5ACD;
+ 
+    
+}
+
+div{
+    padding: 20px;
+}
+
+.divend{
+    text-align: center;
+    color: black;
+}
+.i2div{
+    font-family:serif;
+    text-transform: capitalize;
+}
+
+.i2div1{
+    text-transform: none;
+    
+}
+.i2div2{
+    font-size: xx-large;
+} */
